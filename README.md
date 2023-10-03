@@ -4,3 +4,5 @@ Two devices were used, a wristband that collects signal datas such as blood pres
 Also another device to collect brain signals such as Alpha, beta, delta signals.
 These data were analyzed, augmented.
 With the output data set, certain deep learning models were used such as CNN, RNN and LSTM.
+
+This project was a graduation project developed by me, Yasemin Nukan and Ömer Faruk Işık at Istanbul Kultur University.
